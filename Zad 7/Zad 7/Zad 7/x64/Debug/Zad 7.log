@@ -1,0 +1,7 @@
+﻿  Zad 7.c
+C:\Users\bozoj\OneDrive - Fakultet elektrotehnike, strojarstva i brodogradnje\Desktop\FESB\3.SEMESTAR\Strukture podataka\Zad 7\Zad 7\Zad 7\Zad 7.c(33,7): warning C4101: 'buffer': unreferenced local variable
+C:\Users\bozoj\OneDrive - Fakultet elektrotehnike, strojarstva i brodogradnje\Desktop\FESB\3.SEMESTAR\Strukture podataka\Zad 7\Zad 7\Zad 7\Zad 7.c(72,7): warning C4101: 'c': unreferenced local variable
+C:\Users\bozoj\OneDrive - Fakultet elektrotehnike, strojarstva i brodogradnje\Desktop\FESB\3.SEMESTAR\Strukture podataka\Zad 7\Zad 7\Zad 7\Zad 7.c(104,1): warning C4716: 'makedir': must return a value
+C:\Users\bozoj\OneDrive - Fakultet elektrotehnike, strojarstva i brodogradnje\Desktop\FESB\3.SEMESTAR\Strukture podataka\Zad 7\Zad 7\Zad 7\Zad 7.c(170,1): warning C4715: 'preorderprint': not all control paths return a value
+C:\Users\bozoj\OneDrive - Fakultet elektrotehnike, strojarstva i brodogradnje\Desktop\FESB\3.SEMESTAR\Strukture podataka\Zad 7\Zad 7\Zad 7\Zad 7.c(157,1): warning C4715: 'goback': not all control paths return a value
+  Zad 7.vcxproj -> C:\Users\bozoj\OneDrive - Fakultet elektrotehnike, strojarstva i brodogradnje\Desktop\FESB\3.SEMESTAR\Strukture podataka\Zad 7\Zad 7\x64\Debug\Zad 7.exe
